@@ -1,0 +1,37 @@
+[
+  {
+    "nama": "GMC UGM",
+    "kontak": "(0274) 6491919",
+    "lokasi": "Bulaksumur, Sleman",
+    "latitude": -7.7703,
+    "longitude": 110.3774
+  },
+  {
+    "nama": "Klinik Psikologi UGM",
+    "kontak": "(0274) 520108",
+    "lokasi": "Sekip, Sleman",
+    "latitude": -7.7686,
+    "longitude": 110.3794
+  },
+  {
+    "nama": "RSKD Grhasia",
+    "kontak": "(0274) 895030",
+    "lokasi": "Pakem, Sleman",
+    "latitude": -7.6763,
+    "longitude": 110.4389
+  },
+  {
+    "nama": "Layanan Psikologi UNY",
+    "kontak": "(0274) 586168",
+    "lokasi": "Karangmalang, Sleman",
+    "latitude": -7.7708,
+    "longitude": 110.3860
+  },
+  {
+    "nama": "Klinik Psikologi UII",
+    "kontak": "(0274) 898444 ext 1200",
+    "lokasi": "Jl Kaliurang, Sleman",
+    "latitude": -7.7282,
+    "longitude": 110.4106
+  }
+]
