@@ -6,7 +6,6 @@ const reflections = {
   ku: "mu",
   mu: "ku",
   gw : "lu",
-  // Tambahkan lainnya sesuai kebutuhan
 };
 
 function reflect(text) {

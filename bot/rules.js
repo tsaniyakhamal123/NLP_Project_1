@@ -65,7 +65,7 @@ module.exports = [
   {
     pattern: /(psikolog|konseling|butuh bantuan|iya)/i,
     reply: () => {
-      return `Kalau kamu butuh bantuan, boleh kasih tahu lokasi kamu? Misalnya: "Saya tinggal di Sleman". Nanti aku bantu cari yang terdekat 😊`;
+      return `Kalau kamu butuh bantuan, boleh bagikan lokasimu saat ini? Nanti aku bantu cari psikolog terdekat 😊`;
     },
   }, 
   {
