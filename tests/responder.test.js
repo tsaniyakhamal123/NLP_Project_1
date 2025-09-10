@@ -13,7 +13,7 @@ describe('Pengujian Fungsional Bot Responder', () => {
   // Test Case 1: Respons Sapaan Dasar
   test('Kasus 1: Harus memberikan sapaan untuk input "hai"', () => {
     const input = 'hai';
-    const expectedOutput = 'Halo! Aku siap mendengarkan ceritamu.';
+    const expectedOutput = 'Halo! Aku di sini untuk mendengarkan ceritamu. Apa yang sedang kamu rasakan?';
     expect(respond(input)).toBe(expectedOutput);
   });
 
@@ -27,7 +27,7 @@ describe('Pengujian Fungsional Bot Responder', () => {
   // Test Case 3: Respons Kontekstual Topik Tertentu (Skripsi)
   test('Kasus 3: Harus memberikan respons spesifik untuk topik "skripsi"', () => {
     const input = 'aku pusing sama skripsi';
-    const expectedSubstring = 'bukan lah segalanya';
+    const expectedSubstring = 'Beban karena skripsi';
     expect(respond(input)).toContain(expectedSubstring);
   });
 

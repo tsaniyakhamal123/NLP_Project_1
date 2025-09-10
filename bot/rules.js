@@ -78,7 +78,7 @@ module.exports = [
   // --- KELOMPOK 5: INTERAKSI DASAR & ALUR PERCAKAPAN ---
   {
     pattern: /(halo|hai|hello|pagi|siang|sore)/i,
-    reply: "Halo! Aku di sini untuk mendengarkan. Apa yang sedang kamu rasakan?",
+    reply: "Halo! Aku di sini untuk mendengarkan ceritamu. Apa yang sedang kamu rasakan?",
   },
   {
     pattern: /(terima kasih|makasih|thanks)/i,
@@ -105,7 +105,7 @@ module.exports = [
   },
   {
     pattern: /.*/i, // Fallback (paling akhir)
-    reply: "Aku mendengarkan. Bisa ceritakan lebih banyak?",
+    reply: "Aku mengerti. Bisa ceritakan lebih banyak?",
   },
   
 ];
