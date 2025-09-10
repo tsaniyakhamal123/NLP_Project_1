@@ -56,9 +56,9 @@ module.exports = [
       "Pertanyaan yang bagus. Menurutmu, bagaimana jika kita pecah masalah ini jadi langkah kecil dulu?",
   },
   {
-    pattern: /saya (tinggal|berada|di) (.+)/i,
+    pattern: /saya (?:tinggal|berada|di)\s*di\s*(.+)/i,
     reply: (match) => {
-      const lokasi = match[2].toLowerCase();
+      const lokasi = match[1].trim().toLowerCase();
       return getRekomendasiPsikolog(lokasi);
     },
   },

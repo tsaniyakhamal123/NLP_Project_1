@@ -20,7 +20,7 @@ function respond(input) {
       }
 
       if (typeof rule.reply === "string" && rule.reply.includes("{reflected}")) {
-        const reflected = reflect(match[1] || match[2] || "");
+        const reflected = reflect(match[2] || match[1] || "");
         return rule.reply.replace("{reflected}", reflected);
       }
 
