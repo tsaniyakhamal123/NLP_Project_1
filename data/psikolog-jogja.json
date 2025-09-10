@@ -33,5 +33,138 @@
     "lokasi": "Jl Kaliurang, Sleman",
     "latitude": -7.7282,
     "longitude": 110.4106
+  },
+  {
+    "nama": "Psikolog RSUD Wonosari",
+    "kontak": "(0274) 391007, 391288",
+    "lokasi": "RSUD Wonosari, Gunungkidul",
+    "latitude": -7.96192,
+    "longitude": 110.60392
+  },
+  {
+    "nama": "RS Panti Rapih – Klinik Psikologi",
+    "kontak": "(0274) 514004",
+    "lokasi": "Jl. Cik Di Tiro 30, Gondokusuman, Kota Yogyakarta",
+    "latitude": -7.7829,
+    "longitude": 110.3786
+  },
+  {
+    "nama": "RSUD Wates – Klinik Psikologi",
+    "kontak": "(0274) 773169",
+    "lokasi": "Jl. Tentara Pelajar Km 1, Wates, Kulon Progo",
+    "latitude": -7.8665,
+    "longitude": 110.1532
+  },
+  {
+    "nama": "Biro Psikologi Laksita Educare",
+    "kontak": "08170434500 (WA)",
+    "lokasi": "Jl. Wates Km 12, Argosari, Sedayu, Bantul",
+    "latitude": -7.8970,
+    "longitude": 110.2420
+  },
+  {
+    "nama": "Prima Consultant: Biro Konsultasi Psikologi",
+    "kontak": "0878-3992-0699",
+    "lokasi": "Jl. Manthous No.1, Siyono Kidul, Playen, Gunungkidul",
+    "latitude": -7.9455,
+    "longitude": 110.6435
+  },
+  {
+    "nama": "Lembaga Layanan Psikologi Zaituna",
+    "kontak": "0857-4240-0704",
+    "lokasi": "Bluyahan, Pendowoharjo, Bantul",
+    "latitude": -7.8505,
+    "longitude": 110.3530
+  },
+  {
+    "nama": "Laksita Educare",
+    "kontak": "0817-0434-500",
+    "lokasi": "Jl. Wates Km. 12, Argosari, Sedayu, Bantul",
+    "latitude": -7.9140,
+    "longitude": 110.2282
+  },
+  {
+    "nama": "Unit Konsultasi Psikologi UGM",
+    "kontak": "0857-5916-1581",
+    "lokasi": "Gedung D Lt. 2, Fakultas Psikologi UGM, Sleman",
+    "latitude": -7.8000,
+    "longitude": 110.3690
+  },
+  {
+    "nama": "Biro Psikologi Dinamis",
+    "kontak": "0896-8716-4716",
+    "lokasi": "Jl. Kaliurang Km.10, Sardonoharjo, Sleman",
+    "latitude": -7.7350,
+    "longitude": 110.3660
+  },
+  {
+    "nama": "Biro Konsultasi Psikologi Kemuning Kembar",
+    "kontak": "0851-0010-2150",
+    "lokasi": "Gg. Bromo No.470, Gunungketur, Kota Yogyakarta",
+    "latitude": -7.8100,
+    "longitude": 110.3790
+  },
+  {
+    "nama": "Charisma Consulting",
+    "kontak": "0812-1395-4464",
+    "lokasi": "Jl. Mahameru No.91A, Ngabean Wetan, Sleman",
+    "latitude": -7.7400,
+    "longitude": 110.3690
+  },
+  {
+    "nama": "Biro Psikologi Detection",
+    "kontak": "0852-9051-6896",
+    "lokasi": "Jl. C. Simanjuntak No.50, Terban, Kota Yogyakarta",
+    "latitude": -7.7835,
+    "longitude": 110.3700
+  },
+  {
+    "nama": "Psikologi Paradigma",
+    "kontak": "0852-3343-0999",
+    "lokasi": "Jl. Nitiprayan No.50, Sanggrahan, Ngestiharjo, Kasihan, Bantul",
+    "latitude": -7.8765,
+    "longitude": 110.3520
+  },
+  {
+    "nama": "Biro Psikologi Zaituna",
+    "kontak": "0818-0419-7866",
+    "lokasi": "Bluyahan RT 47, Pendowoharjo, Sewon, Bantul",
+    "latitude": -7.8535,
+    "longitude": 110.3725
+  },
+  {
+    "nama": "Konsultan Psikologi Bantul",
+    "kontak": "0812-4973-5793",
+    "lokasi": "Jl. Pura RT03/RW72, Gonjen, Tamantirto, Bantul",
+    "latitude": -7.8940,
+    "longitude": 110.3680
+  },
+  {
+    "nama": "Biro Konsultasi Psikologi Yogyakarta Anak dan Dewasa",
+    "kontak": "0812-2613-9134",
+    "lokasi": "Code, Trirenggo, Bantul",
+    "latitude": -7.9020,
+    "longitude": 110.3790
+  },
+  {
+    "nama": "Miracle Psychology",
+    "kontak": "0877-5597-3838",
+    "lokasi": "Jl. Monumen TNI AU No.188, Krobokan, Banguntapan, Bantul",
+    "latitude": -7.9175,
+    "longitude": 110.4070
+  },
+  {
+    "nama": "Praktek Psikolog Klinis (Assyifa Consulting)",
+    "kontak": "0857-1346-7546",
+    "lokasi": "Jl. Merpati 2 No.5, Cokro Gedok, Sidoarum, Godean, Sleman",
+    "latitude": -7.7980,
+    "longitude": 110.3080
+  },
+  {
+    "nama": "Nmm Konsultan Psikologi Kulon Progo",
+    "kontak": null,
+    "lokasi": "Jl Jogja Wates KM 26, Kalinongko, Kebungasri, Pengasih, Kulon Progo",
+    "latitude": -7.8290,
+    "longitude": 110.0910
   }
 ]
