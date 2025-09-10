@@ -1,5 +1,7 @@
 node_modules/
 .env
-logs/
+logs/*
 .wwebjs_auth
 .wwebjs_cache
+
+!logs/sample.log

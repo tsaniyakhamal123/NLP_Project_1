@@ -1,0 +1,12 @@
+2025-09-10T19:30:09+07:00 [INFO]: Pesan diterima dari 6281326xxxxxx@c.us: "Hai"
+2025-09-10T19:30:09+07:00 [INFO]: Balasan dikirim ke 6281326xxxxxx@c.us: "Halo! Aku di sini untuk mendengarkan. Apa yang sedang kamu rasakan?"
+2025-09-10T19:30:20+07:00 [INFO]: Pesan diterima dari 6281326xxxxxx@c.us: "Aku butuh tempat cerita"
+2025-09-10T19:30:20+07:00 [INFO]: Balasan dikirim ke 6281326xxxxxx@c.us: "Kenapa kamu butuh tempat cerita?"
+2025-09-10T19:30:37+07:00 [INFO]: Pesan diterima dari 6281326xxxxxx@c.us: "Karena kuliahku makin berat, tugas skripsi belum kelar"
+2025-09-10T19:30:38+07:00 [INFO]: Balasan dikirim ke 6281326xxxxxx@c.us: "Beban karena tugas memang bisa bikin stres. Apa bagian yang paling memberatkanmu saat ini?"
+2025-09-10T19:30:55+07:00 [INFO]: Pesan diterima dari 6281326xxxxxx@c.us: "Aku stress berat di ugm"
+2025-09-10T19:30:55+07:00 [INFO]: Balasan dikirim ke 6281326xxxxxx@c.us: "Aku mendengar kamu sedang sangat kesulitan. Untuk hal sepenting ini, lebih baik kamu menghubungi tenaga profesional. Hubungi psikolog di 119 (ext 8) atau layanan darurat terdekat."
+2025-09-10T19:30:55+07:00 [WARN]: Safety Net terpicu oleh 6281326xxxxxx@c.us dengan pesan: "Aku stress berat di ugm"
+2025-09-10T19:31:04+07:00 [INFO]: Pesan diterima dari 6281326xxxxxx@c.us: "/9j/4AAQSoagpm6/60BiRyPcViN2+tbuof8eafUfypDMSiiimSf/9k="
+2025-09-10T19:31:04+07:00 [INFO]: Lokasi diterima dari 6281326xxxxxx@c.us: Lat=-7.81993xxxx, Lon=110.37384xxxx
+2025-09-10T19:31:04+07:00 [INFO]: Balasan lokasi dikirim ke 6281326xxxxxx@c.us
